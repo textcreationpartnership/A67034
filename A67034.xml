@@ -1,0 +1,341 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and true definition of the most stupendious water-commanding engine, invented by the Right Honourable (and deservedly to be praised and admired) Edward Somerset, Lord Marquess of Worcester, and by his Lordship himself presented to his most Excellent Majesty Charles the Second, our most gracious Sovereign  ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67034</idno>
+            <idno type="STC">Wing W3532A</idno>
+            <idno type="STC">ESTC R201911</idno>
+            <idno type="EEBO-CITATION">99825144</idno>
+            <idno type="PROQUEST">99825144</idno>
+            <idno type="VID">29519</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67034)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29519)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1962:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and true definition of the most stupendious water-commanding engine, invented by the Right Honourable (and deservedly to be praised and admired) Edward Somerset, Lord Marquess of Worcester, and by his Lordship himself presented to his most Excellent Majesty Charles the Second, our most gracious Sovereign  ...</title>
+                  <author>Worcester, Edward Somerset, Marquis of, 1601-1667.</author>
+                  <author>England and Wales. Private Acts. 1663. 15 Cha.II.c.12.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1663?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from opening words of text.</note>
+                  <note>The first leaf bears royal arms on verso.</note>
+                  <note>Includes a statement by Worcester, and the text of Private Act 15 Cha.II.c.12 (1663), enabling Worcester to benefit by the invention.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Worcester, Edward Somerset, --  Marquis of, 1601-1667 --  Early works to 1800.</term>
+               <term>Pumping machinery --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:29519:1"/>
+            <pb n="1" facs="tcp:29519:1" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:29519:2"/>
+            <p>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <figDesc>English royal blazon, surmounted by a crown and flanked by the English lion on one side and the Scottish unicorn on the other</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="account_of_invention">
+            <pb n="1" facs="tcp:29519:2" rendition="simple:additions"/>
+            <div type="introduction">
+               <head>AN exact and true Definition of the moſt Stupendious Water<g ref="char:EOLhyphen"/>commanding Engine, invented by the Right Honourable (and deſervedly to be praiſed and admired) <hi>Ed<g ref="char:EOLhyphen"/>ward Somerſet,</hi> Lord Marqueſs of <hi>Worce<g ref="char:EOLhyphen"/>ſter,</hi> and by his Lordſhip himſelf preſented to his moſt Excellent Majeſty <hi>Charles</hi> the Second, our moſt gracious Sovereign.</head>
+               <p>An Act of Parliament thereupon granted, with great applauſe of both Houſes, being through his Majeſties particular favour paſſed, by ſpecial Commiſſion to the Right Honourable the Earl of <hi>Clarenden,</hi> Lord High Chancellour of <hi>England;</hi> the Earl of <hi>Southampton,</hi> Lord High Treaſurer; the Lord <hi>Roberts,</hi> Lord Privy Seal, third Officer of the Crown, preceding all Dukes, not of the Blood Royal; the Duke of <hi>Al<g ref="char:EOLhyphen"/>bemarle</hi> his Grace, moſt deſervedly by his
+<pb n="2" facs="tcp:29519:3"/> tranſcendent merits never to be forgotten, Lord General of his Majeſties Land-forces; the Lord Marqueſs of <hi>Dorcheſter,</hi> and the Earl <hi>Lynſey,</hi> Lord High Chamberlain, by his place preceding all Earls, both likewiſe of the Privy Council: They paſſed the ſaid Act upon the third of <hi>June,</hi> 1663. For the more expedition, and in Teſtimony of the great conſequence thereof to the King and Kingdom.</p>
+               <p>His moſt Excellent Majeſty having the tenth part, without deducting of Charges, freely given him by the ſaid Lord Mar<g ref="char:EOLhyphen"/>queſs, and there evidently accruing a con<g ref="char:EOLhyphen"/>ſiderable Profit and Benefit to every indivi<g ref="char:EOLhyphen"/>dual Subject of the whole Nation, if he either have ſurrounded Mariſh-ground to drein, or dry Land to improve; Commo<g ref="char:EOLhyphen"/>dities to ſell portable from Town to Town, and through the Countrys to the Towns by Cuts thus fed by water; or if he have (I further ſay) Mines wherewith to en<g ref="char:EOLhyphen"/>rich himſelf withall, Houſes to be ſerved, or Gardens to be beautified by plentiful
+<pb n="3" facs="tcp:29519:3"/> Fountains with little charge, yet certain in ever ſo dry a Summer: and there being indeed no place but either wanteth wa<g ref="char:EOLhyphen"/>ter, or is overburdened therewith, and by this Engine either defect is remediable, that is to ſay, water neceſſary to man-kind, furniſhed with the pleaſantneſs thereof, pro<g ref="char:EOLhyphen"/>cured, and the water unneceſſary, as eaſily rejected.</p>
+               <p>Thus whole Cities may be kept Clean, Delightful and Wholeſome, needing no other Scavengery then by means thereof to void their dirt, and avoid noiſomneſs, the Cauſe of Infection, Sickneſſes and Conta<g ref="char:EOLhyphen"/>gion it ſelf, by Stenches commonly ingen<g ref="char:EOLhyphen"/>dring and fomenting the ſame.</p>
+               <p>After the Act of Parliament, there is here ſet down a Latin <hi>Elogium,</hi> &amp; an Engliſh <hi>Pa<g ref="char:EOLhyphen"/>negirick,</hi> both of them compoſed through duty and gratitude by an Antient Servant of his Lordſhips, preſuming to begin the way to the greateſt Wits and Poets to di<g ref="char:EOLhyphen"/>late upon ſo plentiful and admirable a
+<pb n="4" facs="tcp:29519:4"/> Theam, and ſo deſerving a perſon of King and Kingdom, and indeed of all that ever knew him.</p>
+               <p>This Antient Servant of his Lordſhips, hath for forty years been an eye witneſs of his great ingenuity, indefatigable pains, and vaſte expences in perfecting for publique ſervice, not onely this moſt Stupendious Water-commanding Engine, but likewiſe ſeveral other rare, uſeful, and never former<g ref="char:EOLhyphen"/>ly heard of Mathematical Concluſions, of which he hath owned a Century, and thereunto I refer you: though this alone were enough to eternalize his Name to all Ages and future times.</p>
+               <p>I think it not amiſs to give further notice in his Lordſhips behalf, that he intends within a moneth or two to erect an Office, and to intruſt ſome very reſponſible and honourable perſons with power to Treat and Conclude with ſuch as deſire at a rea<g ref="char:EOLhyphen"/>ſonable rate to reap the benefit of the ſame Water-commanding Engine, in any of the
+<pb n="5" facs="tcp:29519:4"/> aforeſaid uſeful and beneficial operations, whereof his Majeſty is to reap the firſt fruit; and then the whole Kingdom in general, be<g ref="char:EOLhyphen"/>fore his Lordſhip is re-imburſed, and his reward beginneth; whoſe laudable inventi<g ref="char:EOLhyphen"/>ons Almighty God proſper with bleſſings on earth, and reward in heaven.</p>
+            </div>
+            <div type="letter">
+               <pb n="6" facs="tcp:29519:5"/>
+               <opener>
+                  <salute>Moſt Gracious Sovereign,</salute>
+               </opener>
+               <p>THe ſame individual Definition of my Water-work, which I formerly pre<g ref="char:EOLhyphen"/>ſumed to put into Your Royal Hands, I again adventure to preſent to Your Maje<g ref="char:EOLhyphen"/>ſty; praying Your Belief of it, as Your Majeſty ſhall find it true by comparing it with the real Effect; which if found pun<g ref="char:EOLhyphen"/>ctually agreeing, Vouchſafe then not to be apt hereafter to lend a believing Ear to ſuch perſons, as Malice cauſeth to detract from, or Ignorance to ſlight what ſhall (though never ſo ſeemingly ſtrange) be averr'd by me, who will never be convinced of a Falſhood in Word or Deed towards Your Sacred Majeſty; before whom I ſhall ever ſpeak as in the preſence of Almighty God, whoſe Vicegerent on Earth I deem You:
+<pb n="7" facs="tcp:29519:5"/> And to Your Majeſties tranſcendent Judg<g ref="char:EOLhyphen"/>ment I ſubmit all, and will preſume to ſub<g ref="char:EOLhyphen"/>ſcribe my ſelf,</p>
+               <closer>
+                  <salute>SIR,</salute> 
+                  <signed>Your Sacred Majeſties Faithfully-Devoted, and paſſionately-Affected, <g ref="char:V">Ʋ</g>ſeful, if cheriſhed, Subject and Servant, <hi>WORCESTER.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="description_of_invention">
+               <head>A Stupendious or a Water-Commanding En<g ref="char:EOLhyphen"/>gine, boundleſs for Height, or Quantity, requiring no External, nor even Additional help, or force to be ſet, or continued in moti<g ref="char:EOLhyphen"/>on, but what intrinſecally is afforded from its own Operation, nor yet the twentieth part thereof: And the Engine conſiſteth of the following Particulars;</head>
+               <p n="1">1. A perfect Counterpoize for what Quantity ſoever of Water.</p>
+               <p n="2">2. A perfect Countervail for what Height ſoever it is to be brought unto.</p>
+               <p n="3">3. A <hi>Primum Mobile</hi> commanding both
+<pb n="8" facs="tcp:29519:6"/> Height and Quantity Regulator-wiſe.</p>
+               <p n="4">4. A Vicegerent or Countervail ſup<g ref="char:EOLhyphen"/>plying the place, and performing the full force of a Man, Wind, Beaſt, or Mill.</p>
+               <p n="5">5. A Helm or Stern, with Bitt and Reins, wherewith any Child may guide, order, and controul the whole Operation.</p>
+               <p n="6">6. A particular Magazine for Water, according to the intended Quantity or Height of Water.</p>
+               <p n="7">7. An Aquaduct capable of any intend<g ref="char:EOLhyphen"/>ed Quantity or Height of Water.</p>
+               <p n="8">8. A place for the Original Fountain or even River to run into, and naturally of its own accord incorporate it ſelf with the riſing Water, and at the very bottom of the ſame Aquaduct, though never ſo big or high.</p>
+               <p>
+                  <hi>By Divine Providence, and Heavenly Inſpiration, this is my Stupendious Water-Commanding Engine, bound<g ref="char:EOLhyphen"/>leſs for Height and Quantity.</hi>
+               </p>
+               <q>
+                  <pb n="9" facs="tcp:29519:6"/>
+                  <lg>
+                     <l>Whoſoever is Maſter of Weight,</l>
+                     <l>Is Maſter of Force;</l>
+                     <l>Whoſoever is Maſter of Water,</l>
+                     <l>Is Maſter of both:</l>
+                  </lg>
+                  <p>And conſequently, to him all Forceable Actions and Atchievments are eaſie, which are in any wiſe beneficial to or for Man<g ref="char:EOLhyphen"/>kind.</p>
+               </q>
+               <q xml:lang="lat">
+                  <l>Exegi Monumentum aere perennius,</l>
+                  <l>Regalíque ſitu Pyramidum altius;</l>
+                  <l>Quod non imber edax, non Aquilo impotens,</l>
+                  <l>Poſſit diruere, aut innumer abilis</l>
+                  <l>Annorum ſeries, &amp; fuga temporum:</l>
+                  <l>Non omnis moriar, multáque pars mei</l>
+                  <l>Vitabit Libitinam,</l>
+                  <l>dum ſtabit Anglia. <hi>Capitolium.</hi>
+                  </l> 
+                  <bibl>Horace.</bibl>
+               </q>
+               <q>
+                  <l>Reader obſerve, This tells us how to keep</l>
+                  <l>Our morning-Thoughts awake, while others ſleep:</l>
+                  <l>'Tis Art and Nature's product, ſcan'd by ſome:</l>
+                  <l>Judge of it by th'Effects; then give your doom.</l>
+               </q>
+            </div>
+            <closer>
+               <hi>To God alone be all Praiſe, Honour<lb/> and Glory, for ever and ever.</hi> Amen.
+<signed>WORCESTER.</signed>
+            </closer>
+         </div>
+         <div type="Act_of_Parliament">
+            <pb n="10" facs="tcp:29519:7" rendition="simple:additions"/>
+            <head>An Act to Enable <hi>Edward</hi> Marqueſs of <hi>Worceſter</hi> to Receive the Benefit and Pro<g ref="char:EOLhyphen"/>fit of a Water-Commanding Engine by him Invented; One Tenth part whereof is appropria<g ref="char:EOLhyphen"/>ted for the Benefit of the Kings Majeſty, His Heirs and Succeſ<g ref="char:EOLhyphen"/>ſors.</head>
+            <p>WHEREAS The Right Honourable <hi>Edward</hi> Mar<g ref="char:EOLhyphen"/>queſs of <hi>Worceſter</hi> hath affirmed to the Kings moſt Excellent Majeſty, That he hath by long and indefatigable pains and ſtudy, and with great and vaſt expen<g ref="char:EOLhyphen"/>ces,
+<pb n="11" facs="tcp:29519:7"/> invented and found out a Secret in Nature, never heretofore diſcovered, being a Water-Commanding Engine, of greater force and advantage then hi<g ref="char:EOLhyphen"/>therto hath been known; and being no Pump or Force now in uſe, nor work<g ref="char:EOLhyphen"/>ing by any Suckers, Barrels, or Bel<g ref="char:EOLhyphen"/>lows heretofore uſed for the raiſing and conveying of Water; which ſaid En<g ref="char:EOLhyphen"/>gine will yield very great benefit and advantage to the Common-wealth, by draining of all ſorts of Mines, Mariſh, Oazie, or Overflown Grounds; by fur<g ref="char:EOLhyphen"/>niſhing of Rivers and Cutts with wa<g ref="char:EOLhyphen"/>ter to make them Navigable and Por<g ref="char:EOLhyphen"/>table from Town to Town; by impro<g ref="char:EOLhyphen"/>ving of Lands wanting water; by the ſupplying and bringing in of water into the City of <hi>London,</hi> or into any other places; and by divers other ways and means whereby great Encouragement will be given to the People of this Na<g ref="char:EOLhyphen"/>tion to undertake to work rich Mines, to drain, and gain in many Mariſh, Oazie, and ſurrounded Grounds, which
+<pb n="12" facs="tcp:29519:8"/> hitherto they have been deterred to en<g ref="char:EOLhyphen"/>deavour the improvement of, by reaſon of the vaſt ſums of money which muſt be neceſſarily expended by the draining and conveying away the water out of the ſame. And whereas the ſaid <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> Marqueſs of <hi>Worceſter</hi> is willing and contented to ſetle a tenth part of the accruing benefit thereof upon His Maje<g ref="char:EOLhyphen"/>ſty, His Heirs and Succeſſors, for the term of years after in this Act mention<g ref="char:EOLhyphen"/>ed; To the end therefore that the ſaid <hi>Edward</hi> Marqueſs of <hi>Worceſter</hi> may have and enjoy the full and particular benefit and profit of this his new In<g ref="char:EOLhyphen"/>vention, with a Prohibition to all o<g ref="char:EOLhyphen"/>thers to make uſe thereof for ninety and nine years: May it therefore pleaſe the Kings moſt Excellent Majeſty, That it may be Enacted, And Be it Enacted by the Kings moſt Excellent Majeſty, by and with the Advice and Conſent of the Lords Spiritual and Temporal, and the Commons in this preſent Par<g ref="char:EOLhyphen"/>liament Aſſembled, and by the Autho<g ref="char:EOLhyphen"/>rity
+<pb n="13" facs="tcp:29519:8"/> thereof, That it ſhall and may be lawful to and for the ſaid <hi>Edward</hi> Mar<g ref="char:EOLhyphen"/>queſs of <hi>Worceſter,</hi> His Executors and Aſſigns, from time to time, and at all times hereafter, during the ſaid ninety and nine years, to have, receive, take, and enjoy, to his and their own proper uſe and uſes, the Profit, Benefit, and Advantage which ſhall any ways a<g ref="char:EOLhyphen"/>riſe, happen, or accrue by means or rea<g ref="char:EOLhyphen"/>ſon of the aforeſaid Engine and new Invention. And be it alſo Enacted by the Authority aforeſaid, That one full tenth part of the accruing Bene<g ref="char:EOLhyphen"/>fit thereof (without deduction or abate<g ref="char:EOLhyphen"/>ment for or by reaſon of any Charges or Expences whatſoever) ſhall be paid and anſwered, and accounted for by the ſaid <hi>Edward</hi> Marqueſs of <hi>Worceſter,</hi> his Executors, Adminiſtrators, and Aſ<g ref="char:EOLhyphen"/>ſigns, for His Majeſty, His Heirs and Succeſſors, into His Majeſties publick receipt of Exchequer yearly, and every year at the Feaſts of Saint <hi>Michael</hi> the Arch-angel, and the Annunciation of
+<pb n="14" facs="tcp:29519:9"/> the Bleſſed Virgin <hi>Mary,</hi> during the ſaid Term of Ninety nine years, the firſt payment to be made at the Feaſt of Saint <hi>Michael</hi> the Arch-angel, which ſhall be in the year of our Lord God, One thouſand ſix hundred ſixty and three; And be it further Enacted by the Authority aforeſaid, that if any Perſon or Perſons whatſoever within his Ma<g ref="char:EOLhyphen"/>jeſties Kingdom of <hi>England</hi> &amp; Domini<g ref="char:EOLhyphen"/>on of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> and the Dominions and Terri<g ref="char:EOLhyphen"/>tories thereunto belonging, do, or ſhall at any time hereafter, during the ſaid term, Counterfeit, Imitate, put in pra<g ref="char:EOLhyphen"/>ctice, or erect the ſaid Water-command<g ref="char:EOLhyphen"/>ing Engine (without the conſent and Licenſe firſt had and obtained in writ<g ref="char:EOLhyphen"/>ing from the ſaid <hi>Edward</hi> Marqueſs of <hi>Worceſter,</hi> or his Aſsignes) That it ſhall, and may be lawful to and for the ſaid <hi>Edward</hi> Marqueſs of <hi>Worceſter,</hi> or his Aſsignes, with his, or their A<g ref="char:EOLhyphen"/>gents or Work-men by a Warrant from the Lord Chief Juſtice, or from any
+<pb n="15" facs="tcp:29519:9"/> two Juſtices of Peace within the re<g ref="char:EOLhyphen"/>ſpective County or Liberty, where ſuch ſearch ſhall be made, and aſsiſted by the Conſtable or Conſtables neer adjacent, to enter into, or upon the ſaid place or places where the ſaid Work or Engine ſhall be made or erected; And upon diſ<g ref="char:EOLhyphen"/>covery of any ſuch Engine, to proceed againſt the ſaid Perſon or Perſons by Action, Information or Indictment; and after Conviction thereof in due courſe of Law in any Aſsizes, or pub<g ref="char:EOLhyphen"/>lique Seſsions of the Peace, or any of the Courts at <hi>Weſtminſter,</hi> or any other His Majeſties Courts of Record in any City, Burrough, or Town Corporate, or in any Stanary, Court, or Juriſ<g ref="char:EOLhyphen"/>diction of Lead-mines; Then ſuch En<g ref="char:EOLhyphen"/>gines to be forfeited, and ſeized to and for the uſe of the ſaid <hi>Edward</hi> Marqueſs of <hi>Worceſter,</hi> his Executors, Admini<g ref="char:EOLhyphen"/>ſtrators and Aſsignes reſpectively: And further, that the ſaid Actor or A<g ref="char:EOLhyphen"/>ctors, Contriver or Contrivers thereof, and every of them, ſhall loſe, and forfeit Five
+<pb n="18" facs="tcp:29519:10"/>
+               <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fore the Nine and twentieth day of <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> One thouſand ſix hundred ſixty threé; And be by him or them then put into the Exchequer, and kept there.</p>
+            <closer/>
+            <postscript>
+               <p>Copia vera.</p>
+               <closer>
+                  <signed>
+                     <hi>Jo. Brown</hi> Cleric. Parliament.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="encomium">
+            <pb n="19" facs="tcp:29519:10"/>
+            <head>In admirandam magis quàm imitandam, aut ullis Encomiis ſatis praedicandam, Illuſtriſſimi Domini Marchionis Vigorniae Machinam Hydraulicam, Elogium.</head>
+            <q xml:lang="lat">
+               <l>Barbara Pyramidum ſileat miracula Memphis,</l>
+               <l>Aſſiduus jactet nec Babylona labor.</l> 
+               <bibl>Horat.</bibl>
+            </q>
+            <q xml:lang="lat">
+               <lg>
+                  <l>SIſte viator, depone ſarcinam, &amp; dumreficis membra</l>
+                  <l>Labore languida, paſce mentem novitatis avidam;</l>
+                  <l>Perpende gyganteam hanc molé, aeterni motus aemulam,</l>
+                  <l>Naturae &amp; Artis compaginem, Coeli Solíque ſtuporem.</l>
+               </lg>
+               <lg>
+                  <l>Pondera ponderibus librata hîc Aethera ſcandunt,</l>
+                  <l>Et redeunt proprias mox ſubitura vices.</l>
+                  <l>Mens praegnans agitata Deo, nunc praeſtat in Orbe,</l>
+                  <l>Quae nec ſtellifero ſunt tribuenda Polo.</l>
+               </lg>
+               <lg>
+                  <l>Taceat Rhodus, faceſſat Epheſus, et quicquid fabuloſa</l>
+                  <l>Praedicat antiquitas; illic laudanda Artificis induſtria,</l>
+                  <l>Hîc admiranda mentis ſublimitas celebranda venit.</l>
+                  <l>Cui impares fuere tot ſeculis retroactis omnes Graeci,</l>
+               </lg>
+               <lg>
+                  <pb n="20" facs="tcp:29519:11"/>
+                  <l>Et Romani, humano conatù, id praestitit noſtra</l>
+                  <l>Aetate unus <hi>Cambrobritannus,</hi> Divino afflatu:<lb/>Soli Deo Gloria.</l>
+               </lg>
+            </q>
+            <q xml:lang="lat">
+               <l>Martis &amp; Imperii Palmam fert Roma perennem;</l>
+               <l>Artis &amp; Ingenii Cambria culmen habet.</l>
+            </q>
+            <q xml:lang="lat">
+               <l>—pauci, quos aequus amavit</l>
+               <l>Jupiter, aut ardens evexit ad aethera virtus,</l>
+               <l>Hoc potuere.—</l>
+            </q>
+            <closer>
+               <signed>
+                  <hi>Jacobus Rollocus,</hi> Scoto-Belga-Britannus.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb n="21" facs="tcp:29519:11"/>
+            <head>
+               <hi>A Panegyrick to the Right Honourable</hi> EDWARD, <hi>Lord Marqueſs of</hi> Worceſter, <hi>
+                  <g ref="char:V">Ʋ</g>pon his ſtupendious and never-ſufficiently<g ref="char:EOLhyphen"/>commended Water-work.</hi>
+            </head>
+            <lg>
+               <l>I know mean ſubjects need a skilful Pen</l>
+               <l>To ſtretch their worth on tenter-hooks, but when</l>
+               <l>A Theam falls out ſo pregnant, who can chuſe</l>
+               <l>But ſtrain his vulgar Wit to prove a Muſe?</l>
+            </lg>
+            <lg>
+               <l>COme, fainting Pilgrim, lay here down thy Pack,</l>
+               <l>And, while thou reſts thy wearied limbs, look back</l>
+               <l>Upon this Pageant, th'Emblem of his mind,</l>
+               <l>Whoſe Art and Skill hath this our Age refin'd.</l>
+            </lg>
+            <lg>
+               <l>Here little <hi>David</hi> curbs the Gyant's brood,</l>
+               <l>Small drops of Rain contend with <hi>Noah's</hi> Flood;</l>
+               <l>One weighs a thouſand coming down apace,</l>
+               <l>Weighs but himſelf when he hath run his race.</l>
+            </lg>
+            <lg>
+               <l>The Heavens admire, the Centre ſtands amaz'd,</l>
+               <l>To ſee ſuch Streams by ſo ſmall Forces rais'd.</l>
+               <l>Great is the Work, but greater is the Fame</l>
+               <l>Of that great Peer who did invent the ſame.</l>
+            </lg>
+            <lg>
+               <l>What Force or Strength can do is in his reach,</l>
+               <l>His long Experience, Coſt and Charges, teach;</l>
+               <pb n="22" facs="tcp:29519:12"/>
+               <l>What Greeks, nor Romans e're could do, this day,</l>
+               <l>Our Noble Britain here hath found the way.</l>
+            </lg>
+            <lg>
+               <l>If Ages paſt had bred you, we had ſeen</l>
+               <l>Your Glories current run a bigger ſtream;</l>
+               <l>But Art and Envy meeting face to face,</l>
+               <l>Like <hi>France</hi> and <hi>Spain,</hi> diſpute who ſhall take place.</l>
+            </lg>
+            <lg>
+               <l>None but ignoble Minds love to detract</l>
+               <l>From th'Honour due to ſuch a noble Act:</l>
+               <l>On then, that after-ages may relate</l>
+               <l>Your Service done to Country, King and State.</l>
+            </lg>
+            <lg>
+               <l>And though that envious Spirits ſpit their gall,</l>
+               <l>Your noble Deeds are ſo well known to all,</l>
+               <l>As if their malice ſhould take from your praiſe,</l>
+               <l>Your own deſerts will crown your head with Bays.</l>
+            </lg>
+            <closer>
+               <signed>By your Lordſhips moſt humble and faithful Servant, <hi>James Rollock.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:29519:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
